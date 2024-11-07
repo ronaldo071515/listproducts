@@ -1,0 +1,2 @@
+# listproducts
+Show products
